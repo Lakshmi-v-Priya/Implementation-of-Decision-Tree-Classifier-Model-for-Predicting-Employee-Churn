@@ -65,12 +65,15 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 Data:
+
 ![image](https://github.com/user-attachments/assets/49bc88c3-790e-4f19-89d0-b9e73be218a1)
 
 Accuracy:
+
 ![image](https://github.com/user-attachments/assets/69e1dae4-ea03-43e8-91d6-fa29f635bd6a)
 
 Predict:
+
 ![image](https://github.com/user-attachments/assets/0cd82da1-4a1b-4e43-b89f-8778dbb900ed)
 
 ## Result:
